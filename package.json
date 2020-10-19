@@ -12,7 +12,7 @@
     "start": "npm-run-all -p watch-css start-js",
     "watch-css": "npm run build-css && node-sass-chokidar src/assets/css/scss -o src/assets/css --watch --recursive"
   },
-  "homepage": "github.com/steubsengineering",
+  "homepage": "http://steubsengineering.github.io/cfapp/",
   "dependencies": {
     "-": "0.0.1",
     "classnames": "^2.2.6",
