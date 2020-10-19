@@ -15,23 +15,17 @@ const AboutPage = () => {
 
                 <div className="entry-body">
                   <p>
-                    Holly is a free HTML/CSS landing page designed and developed by
-                    @pacovitiello and @DavidePacilio!
+                  Coming Soon.
                 </p>
                   <p>
-                    Holly is suitable for all kind of startups, it's easily
-                    customizable, and it's downloadable for personal and commercial
-                    use.
+                    Coming Soon.
                 </p>
                   <hr />
-                  <p>Live demo: <a href="https://demo.cruip.com/holly/">https://demo.cruip.com/holly/</a></p>
                   <hr />
-                  <p>This template is distributed under the MIT License.</p>
                 </div>
               </div>
             </div>
             <div className="entry-media">
-              <img src="https://placehold.it/420x640" alt="" />
             </div>
           </div>
         </div>
