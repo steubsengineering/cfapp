@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.com/steubsengineering/cfapp/static/css/main.2db11d56.chunk.css",
-    "main.js": "/github.com/steubsengineering/cfapp/static/js/main.5e53f362.chunk.js",
-    "main.js.map": "/github.com/steubsengineering/cfapp/static/js/main.5e53f362.chunk.js.map",
-    "runtime-main.js": "/github.com/steubsengineering/cfapp/static/js/runtime-main.4b599f05.js",
-    "runtime-main.js.map": "/github.com/steubsengineering/cfapp/static/js/runtime-main.4b599f05.js.map",
-    "static/js/2.9d350fc1.chunk.js": "/github.com/steubsengineering/cfapp/static/js/2.9d350fc1.chunk.js",
-    "static/js/2.9d350fc1.chunk.js.map": "/github.com/steubsengineering/cfapp/static/js/2.9d350fc1.chunk.js.map",
-    "index.html": "/github.com/steubsengineering/cfapp/index.html",
-    "precache-manifest.1fbe25fb9f91f636356da36ebb72e75d.js": "/github.com/steubsengineering/cfapp/precache-manifest.1fbe25fb9f91f636356da36ebb72e75d.js",
-    "service-worker.js": "/github.com/steubsengineering/cfapp/service-worker.js",
-    "static/css/main.2db11d56.chunk.css.map": "/github.com/steubsengineering/cfapp/static/css/main.2db11d56.chunk.css.map",
-    "static/js/2.9d350fc1.chunk.js.LICENSE.txt": "/github.com/steubsengineering/cfapp/static/js/2.9d350fc1.chunk.js.LICENSE.txt"
+    "main.css": "/steubsengineering.github.io/cfapp/static/css/main.2db11d56.chunk.css",
+    "main.js": "/steubsengineering.github.io/cfapp/static/js/main.f738de5b.chunk.js",
+    "main.js.map": "/steubsengineering.github.io/cfapp/static/js/main.f738de5b.chunk.js.map",
+    "runtime-main.js": "/steubsengineering.github.io/cfapp/static/js/runtime-main.b8a7828b.js",
+    "runtime-main.js.map": "/steubsengineering.github.io/cfapp/static/js/runtime-main.b8a7828b.js.map",
+    "static/js/2.9d350fc1.chunk.js": "/steubsengineering.github.io/cfapp/static/js/2.9d350fc1.chunk.js",
+    "static/js/2.9d350fc1.chunk.js.map": "/steubsengineering.github.io/cfapp/static/js/2.9d350fc1.chunk.js.map",
+    "index.html": "/steubsengineering.github.io/cfapp/index.html",
+    "precache-manifest.de472672c1d9ae3acc3f589ffe23dc32.js": "/steubsengineering.github.io/cfapp/precache-manifest.de472672c1d9ae3acc3f589ffe23dc32.js",
+    "service-worker.js": "/steubsengineering.github.io/cfapp/service-worker.js",
+    "static/css/main.2db11d56.chunk.css.map": "/steubsengineering.github.io/cfapp/static/css/main.2db11d56.chunk.css.map",
+    "static/js/2.9d350fc1.chunk.js.LICENSE.txt": "/steubsengineering.github.io/cfapp/static/js/2.9d350fc1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b599f05.js",
+    "static/js/runtime-main.b8a7828b.js",
     "static/js/2.9d350fc1.chunk.js",
     "static/css/main.2db11d56.chunk.css",
-    "static/js/main.5e53f362.chunk.js"
+    "static/js/main.f738de5b.chunk.js"
   ]
 }
